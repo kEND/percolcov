@@ -35,5 +35,6 @@ percolcov-*.tar
 npm-debug.log
 /assets/node_modules/
 
+# Ignore the elixir_ls directory
 .elixir_ls/
 
